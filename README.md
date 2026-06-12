@@ -1,6 +1,6 @@
-# # Oasis Infobyte - Python Web Development Internship 🚀
+# Oasis Infobyte - Python Web Development Internship 🚀
 
-Welcome to my repository for the Oasis Infobyte Internship tasks. This repository contains the source code and documentation for all 5 projects completed during this internship journey.
+Welcome to my repository for the Oasis Infobyte Internship tasks. This repository contains the source code and documentation for the projects completed during this internship journey.
 
 ---
 
@@ -12,21 +12,8 @@ An interactive, voice-activated assistant built using Python that listens to use
 ---
 
 ## ⚖️ Task 2: BMI Calculator
-A graphical/command-line application that helps users calculate their Body Mass Index (BMI) and categorize their health status.
-* **Key Features:** Takes user weight and height input, instantly calculates BMI using standard formulas, and classifies the result into Underweight, Normal, Overweight, or Obese categories with user-friendly tips.
-
----
-
-## 🔐 Task 3: Random Password Generator
-A secure command-line application designed to generate strong, unpredictable passwords based on customizable user preferences.
-* **Key Features:** User-defined length, options to toggle Letters, Numbers, and Special Symbols, strong cryptographic randomization, and input validation to prevent crashes.
-
----
-
-## ☀️ Task 4: Weather App
-A practical application that fetches real-time weather information for any city specified by the user.
-* **Key Features:** Connects with an external Weather API, parses JSON data, displays current temperature, humidity, and weather conditions with error handling for invalid city names.
-* **Prerequisites:** `pip install requests`
+A practical tool that helps users calculate their Body Mass Index (BMI) and categorize their health status.
+* **Key Features:** Takes user weight and height input, instantly calculates BMI using standard formulas, and classifies the result into Underweight, Normal, Overweight, or Obese categories.
 
 ---
 
@@ -43,4 +30,3 @@ Ensure you have Python installed on your system. Navigate to the `OIBSIP` direct
 * **Run Task 1 (Voice Assistant):**
   ```bash
   python Divya_Task1.py
-  
